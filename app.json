@@ -1,0 +1,14 @@
+{
+  "name": "CC Checker",
+  "description": "Deploy Checker to Heroku.",
+  "keywords": ["CC"],
+  "env": {
+    "Name": {
+       "description": "Any Name",
+       "value": "no"
+     },
+  },
+  "website": "https://github.com/vauth",
+  "repository": "https://github.com/vauth",
+  "stack": "container"
+ }

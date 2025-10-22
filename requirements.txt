@@ -1,0 +1,7 @@
+colorama
+faker
+bs4
+flask
+aiohttp
+requests
+gunicorn
